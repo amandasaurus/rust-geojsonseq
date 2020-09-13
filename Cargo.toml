@@ -1,0 +1,16 @@
+[package]
+name = "geojsonseq"
+version = "0.1.0"
+authors = ["Rory McCann <rory@technomancy.org>"]
+edition = "2018"
+description = "Read & Write GeoJSON sequences RFC 8142"
+license = "AGPL-3.0+"
+repository = "https://github.com/rory/rust-geojsonseq"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+jsonseq = "0.1"
+geojson = "*"
+thiserror = "1.0"
