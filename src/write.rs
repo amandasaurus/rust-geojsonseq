@@ -1,4 +1,3 @@
-#![allow(warnings)]
 use jsonseq::{serde_json, JsonSeqWriter};
 use std::io::Write;
 
