@@ -1,6 +1,6 @@
 [package]
 name = "geojsonseq"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Rory McCann <rory@technomancy.org>"]
 edition = "2018"
 description = "Read & Write GeoJSON sequences RFC 8142"
