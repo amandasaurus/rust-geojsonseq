@@ -12,5 +12,5 @@ repository = "https://github.com/rory/rust-geojsonseq"
 
 [dependencies]
 jsonseq = "0.1"
-geojson = { version = "0.19", features = ["geo-types"] }
+geojson = { version = "0.20", features = ["geo-types"] }
 thiserror = "1.0"
